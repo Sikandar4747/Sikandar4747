@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sikandar4747
-- 👀 I’m interested in Web Development and Mobile app Development
+- 👀 I’m interested Mobile app Development
 - 🌱 I’m currently learning Flutter and dart
 - 💞️ I’m looking to collaborate on Mobile development
 - 📫 How to reach me captainsikandar47@gmail.com
