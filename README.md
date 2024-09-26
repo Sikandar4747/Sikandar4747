@@ -12,7 +12,6 @@
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/FreelanceProfile-Upwork-informational?style=flat&logo=upwork&logoColor=white&color=ba000d)
-![](https://img.shields.io/badge/FreelanceProfile-Fiverr-informational?style=flat&logo=fiverr&logoColor=white&color=ba000d)
 
 
 
